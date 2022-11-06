@@ -6,8 +6,8 @@
 
 | 类别 | 配置 |
 | :------------: | :------------: |
-| 出国版 | [Outbound](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Outbound.conf) |
-| 回国版 | [Inbound](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Inbound.conf) |
+| 出国版 | [Outbound](https://cdn.statically.io/gh/youwo1024/hello@rules/Surge/Outbound.conf) |
+| 回国版 | [Inbound](https://cdn.statically.io/gh/youwo1024/hello@rules/Surge/Inbound.conf) |
 
 ## 说明
 

@@ -6,8 +6,8 @@
 
 | 类别 | 配置 |
 | :------------: | :------------: |
-| 出国版 | [Outbound](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Outbound.conf) |
-| 回国版 | [Inbound](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Inbound.conf) |
+| 出国版 | [Outbound](https://cdn.statically.io/gh/youwo1024/hello@rules/Quantumult/Outbound.conf) |
+| 回国版 | [Inbound](https://cdn.statically.io/gh/youwo1024/hello@rules/Quantumult/Inbound.conf) |
 
 ## 说明
 
@@ -40,7 +40,7 @@
 
 ### 使用自定义 GeoIP 文件
 
-建议在「其他设置」里「GeoLite2」的「来源」填写使用「 https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb 」并开启「自动更新」
+建议在「其他设置」里「GeoLite2」的「来源」填写使用「 https://cdn.statically.io/gh/Loyalsoldier/geoip/release/Country.mmdb 」并开启「自动更新」
 
 ### 关于规则及策略组
 
