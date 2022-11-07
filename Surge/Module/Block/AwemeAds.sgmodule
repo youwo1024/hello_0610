@@ -6,7 +6,7 @@
 
 [Script]
 # > Aweme - *.amemv.com, *.snssdk.com
-douyin = type=http-response,pattern=^https?:\/\/aweme\.snssdk\.com\/aweme\/v\d\/feed\/,requires-body=1,script-path=https://cdn.statically.io/gh/Choler/Surge/master/Script/douyin.js
+douyin = type=http-response,pattern=^https?:\/\/aweme\.snssdk\.com\/aweme\/v\d\/feed\/,requires-body=1,script-path=https://gcore.jsdelivr.net/gh/Choler/Surge/master/Script/douyin.js
 # ------
 
 [MITM]
